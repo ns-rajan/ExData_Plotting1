@@ -1,5 +1,8 @@
 ## Introduction
 
+This is the Git for my assignments in <a href="https://class.coursera.org/exdata-005/">https://class.coursera.org/exdata-005/</a>. 
+I use my Git account <a href="https://github.com/ns-rajan/ExData_Plotting1">https://github.com/ns-rajan/ExData_Plotting1</a> to submit the assignments.
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
